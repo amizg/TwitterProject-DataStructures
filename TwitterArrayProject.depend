@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636050440 source:c:\users\adammiz\desktop\u-mich\fall2021\datastructures\hw3-p2\twitterarrayproject\main.cpp
+	<iostream>
+	<string>
+	"TwitterHeader.h"
+
+1636051119 c:\users\adammiz\desktop\u-mich\fall2021\datastructures\hw3-p2\twitterarrayproject\twitterheader.h
+	<iostream>
+	<string>
+	"LinkedList.h"
+
+1636050675 c:\users\adammiz\desktop\u-mich\fall2021\datastructures\hw3-p2\twitterarrayproject\include\linkedlist.h
+	<iostream>
+
